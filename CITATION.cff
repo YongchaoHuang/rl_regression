@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this paper or software, please cite it as below."
+authors:
+- family-names: "Huang"
+  given-names: "Yongchao"
+  orcid: "https://orcid.org/0000-0002-4018-6618"
+title: "RL as Regressor: A Reinforcement Learning Approach for Function Approximation"
+version: 1.0.0
+doi: 10.5281/zenodo.16747530
+date-released: 2025-08-05
+url: "https://github.com/YongchaoHuang/rl_regression"
